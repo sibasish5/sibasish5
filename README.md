@@ -28,7 +28,7 @@
 # 💻 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,hibernate,kafka,rabbitmq,redis,mysql,postgres,mongodb,elasticsearch,aws,docker,kubernetes,terraform,jenkins,postman,prometheus,grafana,git,linux&theme=dark&perline=12" width="100%" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,hibernate,kafka,rabbitmq,redis,mysql,postgres,mongodb,elasticsearch,aws,docker,kubernetes,terraform,jenkins,postman,prometheus,grafana,git,linux,vscode,eclipse&theme=dark&perline=12" width="100%" />
 </p>
 
 
